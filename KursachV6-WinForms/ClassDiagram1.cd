@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SalesManagerApp.Client" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAACAAAIAEAAAAAAAAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursachV6_WinForms.ClientManager" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAYAAAAABAAAACAAAggAACAAAAAAAADAAAAAAA=</HashCode>
+      <FileName>ClientManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursachV6_WinForms.Client" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAACAAAIAAAAAAAAAAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>ClientManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesManagerApp.Entity" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesManagerApp.Order" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAAEAAAAAAAEgAAAAAAAAAAAQAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesManagerApp.OrderManager" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAABQBBQAAAAAAAABAAIAAAEAAAAAEAAAAABAAg=</HashCode>
+      <FileName>OrderManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesManagerApp.Product" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAEAAAAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesManagerApp.ProductManager" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAACAAACAIAAAAIAAIQQgAAAAEAAAAAAAABEAAAQA=</HashCode>
+      <FileName>ProductManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursachV6_WinForms.Program" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesManagerApp.ReportManager" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAACAAARAgAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ReportManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesManagerApp.User" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAEQAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SalesManagerApp.UserManager" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAEAAAgAAIAARAAAEAgAAIAAAEAAAA=</HashCode>
+      <FileName>UserManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utils" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SalesManagerApp.IEntityInfo" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEntityInfo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
